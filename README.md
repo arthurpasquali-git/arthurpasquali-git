@@ -6,4 +6,5 @@ Estou fazendo o curso: Aprendizagem industria de Assistente Técnico em Tecnolog
 Tecnologias que uso e estudo atualmente
 Html, Css, JavaSCript, Java e MySQL.
 
-
+Contato
+Email: arthur_pasquali@estudante.sesiseanil.org.br
